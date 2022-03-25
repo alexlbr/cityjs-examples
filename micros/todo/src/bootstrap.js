@@ -1,5 +1,5 @@
 import { createApp } from "vue";
-import { fetchUsername } from "@my-org/user-api";
+import { fetchUsername } from "@my-org/user";
 //import { createRuntime } from "@my-org/shared-runtime";
 import App from "./components/App.vue";
 
